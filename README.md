@@ -17,7 +17,7 @@
 ![Blender export](https://img.shields.io/badge/Blender-export-E87D0D?logo=blender&logoColor=white)
 ![Discord Rich Presence](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2?logo=discord&logoColor=white)
 
-[**⬇️ Download**](https://github.com/M1sterchamp/RigWorks-Studio/releases/latest) · [**✨ Features**](#-render-mode) · [**📸 Screenshots**](#-screenshots) · [**🆕 What's new**](#-whats-new)
+[**⬇️ Download**](https://github.com/M1sterchamp/RigWorks-Studio/releases/latest) · [**✨ Features**](#-render-mode) · [**📸 Screenshots**](#-screenshots) 
 
 <br />
 
