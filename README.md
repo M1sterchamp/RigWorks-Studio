@@ -9,6 +9,7 @@
 [![Latest release](https://img.shields.io/github/v/release/M1sterchamp/RigWorks-Studio?include_prereleases&label=version&color=4f7cff&style=for-the-badge)](https://github.com/M1sterchamp/RigWorks-Studio/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/M1sterchamp/RigWorks-Studio/total?color=2ea44f&style=for-the-badge)](https://github.com/M1sterchamp/RigWorks-Studio/releases)
 ![Status: beta](https://img.shields.io/badge/status-beta-f0883e?style=for-the-badge)
+[![Discord](https://img.shields.io/discord/1554485297226715236?label=Discord&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/FmYvK2Uxwt)
 
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
 ![Euro Truck Simulator 2](https://img.shields.io/badge/Euro%20Truck%20Simulator%202-supported-e8a33d)
