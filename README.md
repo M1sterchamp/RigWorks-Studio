@@ -19,6 +19,10 @@
 ![Blender export](https://img.shields.io/badge/Blender-export-E87D0D?logo=blender&logoColor=white)
 ![Discord Rich Presence](https://img.shields.io/badge/Discord-Rich%20Presence-5865F2?logo=discord&logoColor=white)
 
+[![Issues](https://img.shields.io/github/issues/M1sterchamp/RigWorks-Studio?label=OPEN%20ISSUES&color=e67e22&style=for-the-badge)](https://github.com/M1sterchamp/RigWorks-Studio/issues)
+[![Stars](https://img.shields.io/github/stars/M1sterchamp/RigWorks-Studio?label=STARS&color=f1c40f&style=for-the-badge)](https://github.com/M1sterchamp/RigWorks-Studio/stargazers)
+![Latest Release](https://img.shields.io/github/release-date/M1sterchamp/RigWorks-Studio?label=LATEST%20RELEASE&color=5266ff&style=for-the-badge)
+
 [**⬇️ Download**](https://github.com/M1sterchamp/RigWorks-Studio/releases/latest) · [**✨ Features**](#-render-mode) · [**📸 Screenshots**](#-screenshots) 
 
 <br />
