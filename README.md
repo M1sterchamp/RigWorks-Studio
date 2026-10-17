@@ -34,7 +34,7 @@ RigWorks Studio is a Windows app that reads ETS2's own game files and rebuilds t
 - 🚚 **See your truck from your save** in 3D, in a photo studio or one of the game's own main-menu scenes.
 - 🛠️ **Rebuild it** in the Save-Edit Builders: paint, parts, interior, engine and wheels, for trucks and trailers.
 - 🎮 **Send it straight to the game** in two clicks, or import the one you're driving.
-- 🎨 **Design your own skins** for trucks and trailers and export them as local mods. *(Experimental)*
+- 🎨 **Design your own skins** for trucks and trailers, including sideskirts, bumpers and other parts the game can't paint, and export them as local mods. *(Experimental)*
 - 📦 **Export it as a 3D model** for Blender, game engines and other 3D software.
 
 > [!NOTE]
@@ -143,18 +143,31 @@ The **Trailer Save-Edit Builder** works like the truck one: pick an owned traile
 </details>
 
 <details>
-<summary><b>🎨 Truck and Trailer Skin Makers</b> <i>(Experimental)</i>: design skins and export them as local mods</summary>
+<summary><b>🎨 Truck and Trailer Skin Makers</b> <i>(Experimental)</i>: design skins for your own truck, sideskirts and bumpers included</summary>
 <br />
 
 Design a skin on the game's own template for a truck or trailer, with a live 3D preview, and export it as a zipped local mod.
 
 - 🖌️ Layers of **images**, **text**, **gradients** and **shapes** (stripes and more) over a background colour, with snapping, zoom, undo and redo.
 - 🧭 The **template** shows where each part of the vehicle sits, labelled front, back, left and right; a **test pattern** checks how it wraps.
-- 🚚 **Truck skins** cover the cab and the chassis parts; **trailer skins** cover the body.
-- 💾 **Save design…** and **Open…** to keep working later, **Export skin image…** for the texture alone, or **Export local mod…** for a mod ready to drop into your `mod` folder.
+- 💾 **Save design…** and **Open…** to keep working later, **Export skin image…** for the texture alone, or **Export local mod…** for the finished mod. Extract it into `Documents\Euro Truck Simulator 2` and attach it with Project-ALM.
+
+**🚚 Skin your own truck, not just the cab.** The game's paint templates only cover the cab. RigWorks Studio can skin the rest of your truck too:
+
+1. **Use my truck…** loads your own truck from its save-edit code or straight from your game, so the skin is made for its exact parts.
+2. **Extra parts** lists the solid parts the game can't paint: sideskirts, bumpers, fenders, the tank, chassis covers, mirrors, door handles, sun visors and more. Tick the ones you want.
+3. Each ticked part gets **its own tab and texture**, with a template made from your truck's part. The panels people actually see get most of the space, labelled left and right, so designs come out sharp.
+4. Export, and the extra parts go into the same mod as the cab.
+
+| | |
+|:---:|:---:|
+| <img src="https://i.postimg.cc/Gmp4fHnf/skin-extra-parts.png" /> **Extra parts, with a generated sideskirt template** | <img src="https://i.postimg.cc/htGXYfRN/skin-in-game.png" /> **The skinned sideskirt in game** |
+
+> [!NOTE]
+> A skin built from your own truck **only fits that exact truck setup**. Changing a skinned part, or the parts the skin hangs on, means exporting it again. See-through parts such as grilles aren't supported yet.
 
 > [!CAUTION]
-> Local modding is **highly experimental** and may be removed in a future update if it causes too many issues.
+> Local modding is **highly experimental** and may be removed in a future update if it causes too many issues. Local mod skins work in **singleplayer only**: TruckersMP doesn't load mods. Install the mod before you load the truck.
 
 <p align="center"><img src="https://i.postimg.cc/DZf2DG1M/skin-maker.png" width="85%" /></p>
 
@@ -201,6 +214,7 @@ Design a skin on the game's own template for a truck or trailer, with a live 3D 
 | <img src="https://i.postimg.cc/x8LywnXf/parts.jpg" /> **Parts and pins** | <img src="https://i.postimg.cc/LX4H7Pj0/chrome.png" /> **Chrome parts** |
 | <img src="https://i.postimg.cc/HxWpKMbK/interior.png" /> **Interior tab** | <img src="https://i.postimg.cc/pT02tdBk/performance.png" /> **Engine performance** |
 | <img src="https://i.postimg.cc/VvXBxmJ1/interior.jpg" /> **Inside the cab** | <img src="https://i.postimg.cc/DZf2DG1M/skin-maker.png" /> **Truck Skin Maker** |
+| <img src="https://i.postimg.cc/Gmp4fHnf/skin-extra-parts.png" /> **Skinning extra parts** | <img src="https://i.postimg.cc/htGXYfRN/skin-in-game.png" /> **A skinned sideskirt in game** |
 | <img src="https://i.postimg.cc/7LY3MD7x/export-to-game.png" /> **Export to game** | <img src="https://i.postimg.cc/0NWpV3dR/import-from-game.png" /> **Import from game** |
 | <img src="https://i.postimg.cc/QxjQsCCb/trailer-dealer.png" /> **Trailer dealer** | <img src="https://i.postimg.cc/8PTRDcc4/trailer-set-builder.png" /> **Custom trailer sets** |
 | <img src="https://i.postimg.cc/tR33LWq6/cargo-combination.png" /> **A loaded double** | <img src="https://i.postimg.cc/sD3Yyxx5/cargo-overview.png" /> **Cargo and its details** |
